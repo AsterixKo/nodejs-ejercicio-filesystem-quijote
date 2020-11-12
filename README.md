@@ -4,7 +4,5 @@ Pongamos en práctica lo aprendido. Descarga el archivo de texto de El Quijote e
 
 Crea una app que, de forma modular, realice las siguientes operaciones:
 
-Lea el archivo de El Quijote y devuelva por consola un mensaje de “Procesando libro” y, posteriormente, el número de veces que aparece la palabra “Sancho” en el contenido.
-
-
-Guarde el valor en un archivo llamado “resultado.txt” que se encuentre en la misma carpeta.
+1. Lea el archivo de El Quijote y devuelva por consola un mensaje de “Procesando libro” y, posteriormente, el número de veces que aparece la palabra “Sancho” en el contenido.
+2. Guarde el valor en un archivo llamado “resultado.txt” que se encuentre en la misma carpeta.
